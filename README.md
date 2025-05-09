@@ -50,14 +50,5 @@ const CONFIG = {
 | MARK_AS_READ    | `https://www.googleapis.com/auth/gmail.modify`          |
 | all             | `https://www.googleapis.com/auth/drive.file`            |
 
-## Updating
-Edit `CONFIG`, commit, then:
-```bash
-clasp push
-```
-
-## Contributing
-Fork → branch → PR. Use conventional commits; keep the script under 200 LOC.
-
 ## License
 [MIT](LICENSE)
